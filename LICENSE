@@ -1,0 +1,35 @@
+ARNAV COMMERCIAL LICENSE AGREEMENT
+
+Copyright (c) 2026 [Your Company Name]. All rights reserved.
+
+This software and associated documentation files (the "Software") are the 
+proprietary and confidential information of [Your Company Name].
+
+GRANT OF LICENSE:
+Subject to the payment of applicable fees, [Your Company Name] grants you 
+a limited, non-exclusive, non-transferable license to use the Software 
+solely for your personal or internal business purposes.
+
+RESTRICTIONS:
+You may not:
+1. Copy, modify, adapt, translate, reverse engineer, decompile, or 
+   disassemble the Software
+2. Create derivative works based on the Software
+3. Distribute, sublicense, rent, lease, or lend the Software
+4. Remove or alter any proprietary notices or labels
+
+THIRD-PARTY COMPONENTS:
+This Software includes third-party open source components licensed under 
+their respective licenses:
+- GraphHopper (Apache 2.0)
+- MapLibre (BSD-3-Clause)
+- OpenCV (Apache 2.0)
+- OpenAI Whisper (MIT)
+
+These components remain under their original licenses and are available 
+under those terms separately from this Software.
+
+DISCLAIMER:
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.
+
+For licensing inquiries, contact: [your-email@example.com]
